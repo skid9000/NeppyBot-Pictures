@@ -4,9 +4,11 @@
 
 NeppyBot is a closed source (for now) python 3 bot posting cute Neptunia pics every 20 minutes on Twitter, the Fediverse and Telegram.
 
-Twitter : [@NeppyBot](https://twitter.com/NeppyBot)
-Fediverse : [@NeppyBot@pl.smuglo.li](https://pl.smuglo.li/users/NeppyBot)
-Telegram : [t.me/neppygram](https://t.me/neppygram)
+- Twitter : [@NeppyBot](https://twitter.com/NeppyBot)
+
+- Fediverse : [@NeppyBot@pl.smuglo.li](https://pl.smuglo.li/users/NeppyBot)
+
+- Telegram : [t.me/neppygram](https://t.me/neppygram)
 
 ## What is the purpose of this repo?
 
