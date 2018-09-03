@@ -31,5 +31,5 @@ If your PR is merged, the picture will be in the bot when it will renew the loca
 ## What the ****? Some files are not renamed correctly!
 
 I didn't finished renaming all the files.
-Actually, only the Solo folder have all pictures renamed correctly.
+Actually, only the Solo and Duo folders have all pictures renamed correctly.
 If you want to help with that, feel free to do a PR!
