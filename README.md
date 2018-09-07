@@ -28,6 +28,10 @@ You have to sort your picture in the correct folder and rename it to match the p
 
 If your PR is merged, the picture will be in the bot when it will renew the local pics folder on the server.
 
+## Do you plan to mention original artists at some point?
+
+Yes! When every picture will be renamed, a CREDITS.md will be in each folder of this repo, so we can put the artist name/pseudo and the sauce.
+
 ## What the ****? Some files are not renamed correctly!
 
 I didn't finished renaming all the files.
