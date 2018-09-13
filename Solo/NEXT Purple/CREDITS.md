@@ -1,0 +1,14 @@
+# Credits
+
+## Solo
+
+### Next Purple
+
+Picture name | Artist Name | URL
+-- | -- | --
+NEXT-Purple-1 | ?? | ??
+NEXT-Purple-2 | ?? | ??
+NEXT-Purple-3 | ?? | ??
+NEXT-Purple-4 | ?? | ??
+NEXT-Purple-5 | ?? | ??
+NEXT-Purple-6 | ?? | ??
