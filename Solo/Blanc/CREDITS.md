@@ -20,7 +20,8 @@ Blanc-SchoolGirl-2 | ?? | ??
 
 Picture name | Artist Name | URL
 -- | -- | --
-Blanc-Valentine-1 | ?? | ??
+Blanc-1 | ?? | ??
+Blanc-2 | ?? | ??
 
 Picture name | Artist Name | URL
 -- | -- | --

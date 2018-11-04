@@ -22,8 +22,6 @@ Hyper-BlackHeart-2 | ?? | ??
 Hyper-BlackHeart-3 | ?? | ??
 Hyper-BlackHeart-4 | ?? | ??
 Hyper-BlackHeart-5 | ?? | ??
-Hyper-BlackHeart-6 | ?? | ??
-Hyper-BlackHeart-7 | ?? | ??
 
 Picture name | Artist Name | URL
 -- | -- | --

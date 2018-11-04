@@ -28,7 +28,7 @@ If i have some time, there will be a dedicated website to be more user friendly 
 
 ## That's cool! How can i submit a picture?
 
-For now, you just havce to do a PR, BUT :
+For now, you just have to do a PR, BUT :
 
 Before doing a pull request, check if your picture is already in the repo.
 Since i sorted out all pics, it should take 1-2 minutes to check that.
@@ -44,7 +44,7 @@ Yes! A CREDITS.md will be in each folder of this repo, so we can put the artist 
 
 ## What the Nep? Some files are not renamed correctly!
 
-Normally, it shouldn't happen but if i missed some files, fell free to open a issue or a PR.
+Normally, it shouldn't happen but if i missed some files, feel free to open a issue or a PR.
 
 ## WHY NEPPYBOT ISN'T OPEN SOURCE?
 
