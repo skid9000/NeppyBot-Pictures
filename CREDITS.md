@@ -2,9 +2,15 @@
 
 ## Solo
 
+### Arfoire
 Picture name/path | Artist Name | URL
 -- | -- | --
 /Solo/Arfoire/4GO-Arfoire-1.png | ?? | ??
+
+### Black Heart
+
+Picture name/path | Artist Name | URL
+-- | -- | --
 /Solo/Black-Heart/4GO-BlackHeart-1.png | ?? | ??
 /Solo/Black-Heart/4GO-BlackHeart-2.jpg | ?? | ??
 /Solo/Black-Heart/4GO-BlackHeart-3.png | ?? | ??
@@ -19,6 +25,11 @@ Picture name/path | Artist Name | URL
 /Solo/Black-Heart/Ultra-BlackHeart-2.jpg | ?? | ??
 /Solo/Black-Heart/Ultra-BlackHeart-3.jpg | ?? | ??
 /Solo/Black-Heart/Ultra-BlackHeart-4.jpg | ?? | ??
+
+### Black Sister
+
+Picture name/path | Artist Name | URL
+-- | -- | --
 /Solo/Black-Sister/BlackSister-1.jpg | ?? | ??
 /Solo/Black-Sister/BlackSister-2.png | ?? | ??
 /Solo/Black-Sister/BlackSister-3.png | ?? | ??
@@ -29,6 +40,11 @@ Picture name/path | Artist Name | URL
 /Solo/Black-Sister/BlackSister-8.jpg | ?? | ??
 /Solo/Black-Sister/BlackSister-9.jpg | ?? | ??
 /Solo/Black-Sister/BlackSister-10.jpg | ?? | ??
+
+### Blanc
+
+Picture name/path | Artist Name | URL
+-- | -- | --
 /Solo/Blanc/4GO-Blanc-1.png | ?? | ??
 /Solo/Blanc/4GO-Blanc-2.jpg | ?? | ??
 /Solo/Blanc/Blanc-1.jpg | ?? | ??
@@ -61,8 +77,18 @@ Picture name/path | Artist Name | URL
 /Solo/Blanc/Ultra-Blanc-4.png | ?? | ??
 /Solo/Blanc/Ultra-Blanc-5.jpg | ?? | ??
 /Solo/Blanc/Ultra-Blanc-6.jpg | ?? | ??
+
+### Bouquet
+
+Picture name/path | Artist Name | URL
+-- | -- | --
 /Solo/Bouquet/4GO-Bouquet-1.png | ?? | ??
 /Solo/Bouquet/4GO-Bouquet-2.png | ?? | ??
+
+### Compa
+
+Picture name/path | Artist Name | URL
+-- | -- | --
 /Solo/Compa/4GO-Compa-1.png | ?? | ??
 /Solo/Compa/Baby-Compa-1.png | ?? | ??
 /Solo/Compa/Compa-1.jpg | ?? | ??
@@ -71,12 +97,27 @@ Picture name/path | Artist Name | URL
 /Solo/Compa/Compa-4.jpg | ?? | ??
 /Solo/Compa/Compa-5.png | ?? | ??
 /Solo/Compa/Compa-6.png | ?? | ??
+
+### GodEater
+
+Picture name/path | Artist Name | URL
+-- | -- | --
 /Solo/GodEater/GodEater-1.png | ?? | ??
 /Solo/GodEater/GodEater-2.png | ?? | ??
+
+### Green Heart
+
+Picture name/path | Artist Name | URL
+-- | -- | --
 /Solo/Green-Heart/4GO-GreenHeart-1.png | ?? | ??
 /Solo/Green-Heart/4GO-GreenHeart-2.jpg | ?? | ??
 /Solo/Green-Heart/Hyper-GreenHeart-1.jpg | ?? | ??
 /Solo/Green-Heart/Ultra-GreenHeart-1.png | ?? | ??
+
+### Histoire
+
+Picture name/path | Artist Name | URL
+-- | -- | --
 /Solo/Histoire/Hisoire-Dress-1.jpg | ?? | ??
 /Solo/Histoire/Histoire-1.png | ?? | ??
 /Solo/Histoire/Histoire-2.jpg | ?? | ??
@@ -88,6 +129,11 @@ Picture name/path | Artist Name | URL
 /Solo/Histoire/Histoire-8.jpg | ?? | ??
 /Solo/Histoire/Histoire-Lastation-1.jpg | ?? | ??
 /Solo/Histoire/Multiples-Histoire-1.jpg | ?? | ??
+
+### IF
+
+Picture name/path | Artist Name | URL
+-- | -- | --
 /Solo/IF/4GO-IF-1.png | ?? | ??
 /Solo/IF/Baby-IF-1.png | ?? | ??
 /Solo/IF/Baby-IF-2.jpg | ?? | ??
@@ -103,19 +149,44 @@ Picture name/path | Artist Name | URL
 /Solo/IF/IF-Maid-1.jpg | ?? | ??
 /Solo/IF/IF-Megumin-1.jpg | ?? | ??
 /Solo/IF/Santa-IF-1.jpg | ?? | ??
+
+### Iris Heart
+
+Picture name/path | Artist Name | URL
+-- | -- | --
 /Solo/Iris-Heart/IrisHeart-1.png | ?? | ??
 /Solo/Iris-Heart/IrisHeart-2.png | ?? | ??
 /Solo/Iris-Heart/IrisHeart-3.jpg | ?? | ??
 /Solo/Iris-Heart/IrisHeart-4.jpg | ?? | ??
 /Solo/Iris-Heart/IrisHeart-5.jpg | ?? | ??
 /Solo/Iris-Heart/IrisHeart-6.png | ?? | ??
+
+### Kurome
+
+Picture name/path | Artist Name | URL
+-- | -- | --
 /Solo/Kurome/Kurome-1.jpg | ?? | ??
 /Solo/Kurome/Kurome-2.jpg | ?? | ??
 /Solo/Kurome/Kurome-3.jpg | ?? | ??
+
+### MAGES
+
+Picture name/path | Artist Name | URL
+-- | -- | --
 /Solo/MAGES/MAGES-1.png | ?? | ??
 /Solo/MAGES/MAGES-2.png | ?? | ??
 /Solo/MAGES/MAGES-3.png | ?? | ??
+
+### Mine
+
+Picture name/path | Artist Name | URL
+-- | -- | --
 /Solo/Mine/4GO-Mine-1.png | ?? | ??
+
+### Nepgear
+
+Picture name/path | Artist Name | URL
+-- | -- | --
 /Solo/Nepgear/4GO-Nepgear-1.png | ?? | ??
 /Solo/Nepgear/4GO-Nepgear-2.png | ?? | ??
 /Solo/Nepgear/4GO-Nepgear-3.jpg | ?? | ??
@@ -162,6 +233,11 @@ Picture name/path | Artist Name | URL
 /Solo/Nepgear/Nepgear-SchoolGirl-1.jpg | ?? | ??
 /Solo/Nepgear/Nepgear-Swimsuit-1.png | ?? | ??
 /Solo/Nepgear/Nepgear-Swimsuit-2.png | ?? | ??
+
+### Neptune
+
+Picture name/path | Artist Name | URL
+-- | -- | --
 /Solo/Neptune/4GO-Neptune-1.png | ?? | ??
 /Solo/Neptune/4GO-Neptune-2.png | ?? | ??
 /Solo/Neptune/4GO-Neptune-3.jpg | ?? | ??
@@ -209,19 +285,44 @@ Picture name/path | Artist Name | URL
 /Solo/Neptune/Neptune-PP-2.png | ?? | ??
 /Solo/Neptune/Neptune-Santa-1.jpg | ?? | ??
 /Solo/Neptune/Neptune-Schoolgirl-1.jpg | ?? | ??
+
+### NEXT Black
+
+Picture name/path | Artist Name | URL
+-- | -- | --
 /Solo/NEXT-Black/NEXT-Black-1.jpg | ?? | ??
 /Solo/NEXT-Black/NEXT-Black-2.png | ?? | ??
+
+### NEXT Green
+
+Picture name/path | Artist Name | URL
+-- | -- | --
 /Solo/NEXT-Green/NEXT-Green-1.jpg | ?? | ??
 /Solo/NEXT-Green/NEXT-Green-2.png | ?? | ??
+
+### NEXT Purple
+
+Picture name/path | Artist Name | URL
+-- | -- | --
 /Solo/NEXT-Purple/NEXT-Purple-1.jpg | ?? | ??
 /Solo/NEXT-Purple/NEXT-Purple-2.jpg | ?? | ??
 /Solo/NEXT-Purple/NEXT-Purple-3.jpg | ?? | ??
 /Solo/NEXT-Purple/NEXT-Purple-4.png | ?? | ??
 /Solo/NEXT-Purple/NEXT-Purple-5.jpg | ?? | ??
 /Solo/NEXT-Purple/NEXT-Purple-6.jpg | ?? | ??
+
+### NEXT White
+
+Picture name/path | Artist Name | URL
+-- | -- | --
 /Solo/NEXT-White/NEXT-White-1.png | ?? | ??
 /Solo/NEXT-White/NEXT-White-2.png | ?? | ??
 /Solo/NEXT-White/NEXT-White-3.png | ?? | ??
+
+### Noire
+
+Picture name/path | Artist Name | URL
+-- | -- | --
 /Solo/Noire/4GO-Noire-1.jpg | ?? | ??
 /Solo/Noire/4GO-Noire-2.png | ?? | ??
 /Solo/Noire/4GO-Noire-3.jpg | ?? | ??
@@ -290,14 +391,29 @@ Picture name/path | Artist Name | URL
 /Solo/Noire/Ultra-Noire-10.jpg | ?? | ??
 /Solo/Noire/Ultra-Noire-11.jpg | ?? | ??
 /Solo/Noire/Ultra-Noire-12.png | ?? | ??
+
+### Orange Heart
+
+Picture name/path | Artist Name | URL
+-- | -- | --
 /Solo/Orange-Heart/OrangeHeart-1.png | ?? | ??
 /Solo/Orange-Heart/OrangeHeart-2.jpg | ?? | ??
 /Solo/Orange-Heart/OrangeHeart-3.jpg | ?? | ??
 /Solo/Orange-Heart/OrangeHeart-Halloween-1.jpg | ?? | ??
+
+### Peashy
+
+Picture name/path | Artist Name | URL
+-- | -- | --
 /Solo/Peashy/4GO-Peashy-1.png | ?? | ??
 /Solo/Peashy/Peashy-1.png | ?? | ??
 /Solo/Peashy/Peashy-2.jpg | ?? | ??
 /Solo/Peashy/Peashy-3.png | ?? | ??
+
+### Plutia
+
+Picture name/path | Artist Name | URL
+-- | -- | --
 /Solo/Plutia/4GO-Plutia-1.png | ?? | ??
 /Solo/Plutia/4GO-Plutia-2.jpg | ?? | ??
 /Solo/Plutia/Plutia-1.png | ?? | ??
@@ -306,6 +422,11 @@ Picture name/path | Artist Name | URL
 /Solo/Plutia/Plutia-4.jpg | ?? | ??
 /Solo/Plutia/Plutia-Bunnysuit-1.jpg | ?? | ??
 /Solo/Plutia/Plutia-SchoolGirl-1.jpg | ?? | ??
+
+### Purple Heart
+
+Picture name/path | Artist Name | URL
+-- | -- | --
 /Solo/Purple-Heart/4GO-PurpleHeart-1.png | ?? | ??
 /Solo/Purple-Heart/4GO-PurpleHeart-2.png | ?? | ??
 /Solo/Purple-Heart/4GO-PurpleHeart-3.png | ?? | ??
@@ -335,6 +456,11 @@ Picture name/path | Artist Name | URL
 /Solo/Purple-Heart/PurpleHeart-Bikini-1.jpg | ?? | ??
 /Solo/Purple-Heart/PurpleHeart-News-1.jpg | ?? | ??
 /Solo/Purple-Heart/PurpleHeart-Teacher-1.png | ?? | ??
+
+### Purple Sister
+
+Picture name/path | Artist Name | URL
+-- | -- | --
 /Solo/Purple-Sister/PurpleSister-1.png | ?? | ??
 /Solo/Purple-Sister/PurpleSister-2.jpg | ?? | ??
 /Solo/Purple-Sister/PurpleSister-3.jpg | ?? | ??
@@ -346,6 +472,11 @@ Picture name/path | Artist Name | URL
 /Solo/Purple-Sister/PurpleSister-9.jpg | ?? | ??
 /Solo/Purple-Sister/PurpleSister-9.png | ?? | ??
 /Solo/Purple-Sister/PurpleSister-10.png | ?? | ??
+
+### Ram
+
+Picture name/path | Artist Name | URL
+-- | -- | --
 /Solo/Ram/4GO-Ram-1.png | ?? | ??
 /Solo/Ram/4GO-Ram-2.png | ?? | ??
 /Solo/Ram/Ram-1.png | ?? | ??
@@ -354,6 +485,11 @@ Picture name/path | Artist Name | URL
 /Solo/Ram/Ram-4.jpg | ?? | ??
 /Solo/Ram/Ram-5.jpg | ?? | ??
 /Solo/Ram/Ram-6.jpg | ?? | ??
+
+### Random
+
+Picture name/path | Artist Name | URL
+-- | -- | --
 /Solo/Random/5PB-1.png | ?? | ??
 /Solo/Random/5PB-2.jpg | ?? | ??
 /Solo/Random/Broccoli-1.png | ?? | ??
@@ -386,6 +522,11 @@ Picture name/path | Artist Name | URL
 /Solo/Random/Saturn-1.png | ?? | ??
 /Solo/Random/Tekken-1.png | ?? | ??
 /Solo/Random/Tekken-2.png | ?? | ??
+
+### Rom
+
+Picture name/path | Artist Name | URL
+-- | -- | --
 /Solo/Rom/4GO-Rom-1.png | ?? | ??
 /Solo/Rom/4GO-Rom-2.jpg | ?? | ??
 /Solo/Rom/4GO-Rom-3.png | ?? | ??
@@ -393,10 +534,25 @@ Picture name/path | Artist Name | URL
 /Solo/Rom/Rom-2.png | ?? | ??
 /Solo/Rom/Rom-3.png | ?? | ??
 /Solo/Rom/Rom-BunnySuit-1.jpg | ?? | ??
+
+### Segami
+
+Picture name/path | Artist Name | URL
+-- | -- | --
 /Solo/Segami/Segami-1.png | ?? | ??
 /Solo/Segami/Segami-2.png | ?? | ??
+
+### Tamsoft
+
+Picture name/path | Artist Name | URL
+-- | -- | --
 /Solo/Tamsoft/4GO-Tamsoft-1.png | ?? | ??
 /Solo/Tamsoft/Tamsoft-1.jpg | ?? | ??
+
+### Uni
+
+Picture name/path | Artist Name | URL
+-- | -- | --
 /Solo/Uni/4GO-Uni-1.png | ?? | ??
 /Solo/Uni/4GO-Uni-2.jpg | ?? | ??
 /Solo/Uni/4GO-Uni-3.jpg | ?? | ??
@@ -431,6 +587,11 @@ Picture name/path | Artist Name | URL
 /Solo/Uni/Uni-Kancolle-1.png | ?? | ??
 /Solo/Uni/Uni-Megumin-1.png | ?? | ??
 /Solo/Uni/Uni-SchoolGirl-1.png | ?? | ??
+
+### Uzume
+
+Picture name/path | Artist Name | URL
+-- | -- | --
 /Solo/Uzume/4GO-Uzume-1.jpg | ?? | ??
 /Solo/Uzume/4GO-Uzume-2.png | ?? | ??
 /Solo/Uzume/Uzume-1.jpg | ?? | ??
@@ -440,6 +601,11 @@ Picture name/path | Artist Name | URL
 /Solo/Uzume/Uzume-5.png | ?? | ??
 /Solo/Uzume/Uzume-6.jpg | ?? | ??
 /Solo/Uzume/Uzume-Bunnysuit-1.png | ?? | ??
+
+### Vert
+
+Picture name/path | Artist Name | URL
+-- | -- | --
 /Solo/Vert/4GO-Vert-1.jpg | ?? | ??
 /Solo/Vert/4GO-Vert-2.jpg | ?? | ??
 /Solo/Vert/4GO-Vert-3.jpg | ?? | ??
@@ -464,6 +630,11 @@ Picture name/path | Artist Name | URL
 /Solo/Vert/Vert-Bikini-1-.jpg | ?? | ??
 /Solo/Vert/Vert-SchoolGirl-1.jpg | ?? | ??
 /Solo/Vert/Vert-SchoolGirl-2.jpg | ?? | ??
+
+### White Heart
+
+Picture name/path | Artist Name | URL
+-- | -- | --
 /Solo/White-Heart/4GO-WhiteHeart-1.png | ?? | ??
 /Solo/White-Heart/4GO-WhiteHeart-2.jpg | ?? | ??
 /Solo/White-Heart/4GO-WhiteHeart-3.jpg | ?? | ??
@@ -475,12 +646,27 @@ Picture name/path | Artist Name | URL
 /Solo/White-Heart/Hyper-WhiteHeart-5.jpg | ?? | ??
 /Solo/White-Heart/Ultra-WhiteHeart-1.png | ?? | ??
 /Solo/White-Heart/WhiteHeart-1.jpg | ?? | ??
+
+### White Sister Ram
+
+Picture name/path | Artist Name | URL
+-- | -- | --
 /Solo/White-Sister-Ram/WhiteSisterRam-1.png | ?? | ??
 /Solo/White-Sister-Ram/WhiteSisterRam-2.png | ?? | ??
+
+### White Sister Rom
+
+Picture name/path | Artist Name | URL
+-- | -- | --
 /Solo/White-Sister-Rom/WhiteSisterRom-1.png | ?? | ??
 /Solo/White-Sister-Rom/WhiteSisterRom-2.png | ?? | ??
 /Solo/White-Sister-Rom/WhiteSisterRom-3.png | ?? | ??
 /Solo/White-Sister-Rom/WhiteSisterRom-4.jpg | ?? | ??
+
+### Yellow Heart
+
+Picture name/path | Artist Name | URL
+-- | -- | --
 /Solo/Yellow-Heart/YellowHeart-1.png | ?? | ??
 /Solo/Yellow-Heart/YellowHeart-2.jpg | ?? | ??
 
