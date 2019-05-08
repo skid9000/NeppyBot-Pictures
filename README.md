@@ -40,7 +40,7 @@ If your PR is merged, the picture will be in the bot when it will renew the loca
 
 ## Do you plan to mention original artists at some point?
 
-Yes! A CREDITS.md will be in each folder of this repo, so we can put the artist name/pseudo and the sauce.
+Yes! Check out CREDITS.md, so we can put the artist name/pseudo and the sauce.
 
 ## What the Nep? Some files are not renamed correctly!
 
