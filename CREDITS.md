@@ -794,6 +794,7 @@ Picture name/path | Artist Name | URL
 /Duo/Neptune-Noire/Neptune-Noire-16.jpg | ?? | ??
 /Duo/Neptune-Noire/Neptune-Noire-17.png | ?? | ??
 /Duo/Neptune-Noire/Neptune-Noire-18.jpg | ?? | ??
+/Duo/Neptune-Noire/Neptune-Noire-19.jpg | ?? | https://redd.it/d5zqrs
 /Duo/Neptune-Plutia/Neptune-Plutia-1.png | ?? | ??
 /Duo/Neptune-Plutia/Neptune-Plutia-2.jpg | ?? | ??
 /Duo/Neptune-PurpleHeart/Neptune-PurpleHeart-1.jpg | ?? | ??
