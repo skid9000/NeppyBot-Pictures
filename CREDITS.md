@@ -148,6 +148,7 @@ Picture name/path | Artist Name | URL
 /Solo/IF/IF-9.jpg | ?? | ??
 /Solo/IF/IF-Maid-1.jpg | ?? | ??
 /Solo/IF/IF-Megumin-1.jpg | ?? | ??
+/Solo/IF/IF-Rin-1.png | ?? | ??
 /Solo/IF/Santa-IF-1.jpg | ?? | ??
 
 ### Iris Heart
@@ -193,6 +194,7 @@ Picture name/path | Artist Name | URL
 /Solo/Nepgear/4GO-Nepgear-4.png | ?? | ??
 /Solo/Nepgear/4GO-Nepgear-5.png | ?? | ??
 /Solo/Nepgear/4GO-Nepgear-6.png | ?? | ??
+/Solo/Nepgear/4GO-Nepgear-7.jpg | ?? | ??
 /Solo/Nepgear/Nepgear-1.jpg | ?? | ??
 /Solo/Nepgear/Nepgear-2.png | ?? | ??
 /Solo/Nepgear/Nepgear-3.jpg | ?? | ??
@@ -218,6 +220,7 @@ Picture name/path | Artist Name | URL
 /Solo/Nepgear/Nepgear-23.jpg | ?? | ??
 /Solo/Nepgear/Nepgear-24.jpg | ?? | ??
 /Solo/Nepgear/Nepgear-25.png | ?? | ??
+/Solo/Nepgear/Nepgear-26.jpg | ?? | ??
 /Solo/Nepgear/Nepgear-Bikini-1.jpg | ?? | ??
 /Solo/Nepgear/Nepgear-Bikini-2.jpg | ?? | ??
 /Solo/Nepgear/Nepgear-CuteDress-1.jpg | ?? | ??
@@ -255,6 +258,9 @@ Picture name/path | Artist Name | URL
 /Solo/Neptune/Adult-Neptune-10.jpg | ?? | ??
 /Solo/Neptune/Adult-Neptune-11.jpg | ?? | ??
 /Solo/Neptune/Adult-Neptune-12.jpg | ?? | ??
+/Solo/Neptune/Adult-Neptune-13.jpg | ?? | ??
+/Solo/Neptune/Adult-Neptune-14.jpg | ?? | ??
+/Solo/Neptune/Adult-Neptune-15.jpg | ?? | ??
 /Solo/Neptune/Neptune-1.jpg | ?? | ??
 /Solo/Neptune/Neptune-2.jpg | ?? | ??
 /Solo/Neptune/Neptune-3.jpg | ?? | ??
@@ -277,6 +283,7 @@ Picture name/path | Artist Name | URL
 /Solo/Neptune/Neptune-20.jpg | ?? | ??
 /Solo/Neptune/Neptune-21.jpg | ?? | ??
 /Solo/Neptune/Neptune-22.jpg | ?? | ??
+/Solo/Neptune/Neptune-23.png | ?? | ??
 /Solo/Neptune/Neptune-Bikini-1.jpg | ?? | ??
 /Solo/Neptune/Neptune-Kancolle-1.jpg | ?? | ??
 /Solo/Neptune/Neptune-Napping-1.jpg | ?? | ??
@@ -292,6 +299,7 @@ Picture name/path | Artist Name | URL
 -- | -- | --
 /Solo/NEXT-Black/NEXT-Black-1.jpg | ?? | ??
 /Solo/NEXT-Black/NEXT-Black-2.png | ?? | ??
+/Solo/NEXT-Black/NEXT-Black-3.jpg | ?? | ??
 
 ### NEXT Green
 
@@ -583,6 +591,8 @@ Picture name/path | Artist Name | URL
 /Solo/Uni/Uni-19.jpg | ?? | ??
 /Solo/Uni/Uni-20.jpg | ?? | ??
 /Solo/Uni/Uni-21.png | ?? | ??
+/Solo/Uni/Uni-22.jpg | ?? | ??
+/Solo/Uni/Uni-23.png | ?? | ??
 /Solo/Uni/Uni-Chibi-1.jpg | ?? | ??
 /Solo/Uni/Uni-Kancolle-1.png | ?? | ??
 /Solo/Uni/Uni-Megumin-1.png | ?? | ??
@@ -594,12 +604,14 @@ Picture name/path | Artist Name | URL
 -- | -- | --
 /Solo/Uzume/4GO-Uzume-1.jpg | ?? | ??
 /Solo/Uzume/4GO-Uzume-2.png | ?? | ??
+/Solo/Uzume/4GO-Uzume-3.png | ?? | ??
 /Solo/Uzume/Uzume-1.jpg | ?? | ??
 /Solo/Uzume/Uzume-2.png | ?? | ??
 /Solo/Uzume/Uzume-3.jpg | ?? | ??
 /Solo/Uzume/Uzume-4.jpg | ?? | ??
 /Solo/Uzume/Uzume-5.png | ?? | ??
 /Solo/Uzume/Uzume-6.jpg | ?? | ??
+/Solo/Uzume/Uzume-7.jpg | ?? | ??
 /Solo/Uzume/Uzume-Bunnysuit-1.png | ?? | ??
 
 ### Vert
@@ -646,6 +658,7 @@ Picture name/path | Artist Name | URL
 /Solo/White-Heart/Hyper-WhiteHeart-5.jpg | ?? | ??
 /Solo/White-Heart/Ultra-WhiteHeart-1.png | ?? | ??
 /Solo/White-Heart/WhiteHeart-1.jpg | ?? | ??
+/Solo/White-Heart/WhiteHeart-2.jpg | ?? | ??
 
 ### White Sister Ram
 
@@ -711,6 +724,7 @@ Picture name/path | Artist Name | URL
 /Duo/Nepgear-Random/Nepgear-CJW-1.png | ?? | ??
 /Duo/Nepgear-Random/Nepgear-Falcom-1.jpg | ?? | ??
 /Duo/Nepgear-Random/Nepgear-GameGear-1.png | ?? | ??
+/Duo/Nepgear-Rom/Nepgear-Rom-1.png | ?? | ??
 /Duo/Nepgear-Uni/Nepgear-Uni-1.jpg | ?? | ??
 /Duo/Nepgear-Uni/Nepgear-Uni-2.png | ?? | ??
 /Duo/Nepgear-Uni/Nepgear-Uni-3.png | ?? | ??
@@ -748,6 +762,10 @@ Picture name/path | Artist Name | URL
 /Duo/Nepgear-Uni/Nepgear-Uni-35.jpg | ?? | ??
 /Duo/Nepgear-Uni/Nepgear-Uni-36.jpg | ?? | ??
 /Duo/Nepgear-Uni/Nepgear-Uni-37.jpg | ?? | ??
+/Duo/Nepgear-Uni/Nepgear-Uni-38.png | ?? | ??
+/Duo/Nepgear-Uni/Nepgear-Uni-39.png | ?? | ??
+/Duo/Nepgear-Uni/Nepgear-Uni-40.png | ?? | ??
+/Duo/Nepgear-Uni/Nepgear-Uzume-1.jpg | ?? | ??
 /Duo/Neptune-Blanc/Neptune-Blanc-1.jpg | ?? | ??
 /Duo/Neptune-Blanc/Neptune-Blanc-2.png | ?? | ??
 /Duo/Neptune-Compa/Neptune-Compa-1.jpg | ?? | ??
@@ -773,6 +791,7 @@ Picture name/path | Artist Name | URL
 /Duo/Neptune-Nepgear/Neptune-Nepgear-17.jpg | ?? | ??
 /Duo/Neptune-Nepgear/Neptune-Nepgear-18.png | ?? | ??
 /Duo/Neptune-Nepgear/Neptune-Nepgear-19.jpg | ?? | ??
+/Duo/Neptune-Nepgear/Neptune-Nepgear-20.png | ?? | ??
 /Duo/Neptune-Neptune/Neptune-Neptune-1.jpg | ?? | ??
 /Duo/Neptune-Neptune/Neptune-Neptune-2.jpg | ?? | ??
 /Duo/Neptune-Neptune/Neptune-Neptune-3.jpg | ?? | ??
@@ -882,6 +901,7 @@ Picture name/path | Artist Name | URL
 /Duo/PurpleHeart-IrisHeart/PurpleHeart-IrisHeart-2.jpg | ?? | ??
 /Duo/PurpleHeart-IrisHeart/PurpleHeart-IrisHeart-3.jpg | ?? | ??
 /Duo/PurpleHeart-Nepgear/PurpleHeart-Nepgear-1.jpg | ?? | ??
+/Duo/PurpleHeart-Nepgear/PurpleHeart-Nepgear-2.png | ?? | ??
 /Duo/PurpleHeart-PurpleSister/PurpleHeart-PurpleSister-1.jpg | ?? | ??
 /Duo/PurpleHeart-PurpleSister/PurpleHeart-PurpleSister-2.jpg | ?? | ??
 /Duo/PurpleHeart-PurpleSister/PurpleHeart-PurpleSister-3.jpg | ?? | ??
@@ -981,6 +1001,7 @@ Picture name/path | Artist Name | URL
 /Quatuor/Nepgear-Uni-Rom-Ram/Nepgear-Uni-Rom-Ram-8.jpg | ?? | ??
 /Quatuor/Nepgear-Uni-Rom-Ram/Nepgear-Uni-Rom-Ram-9.jpg | ?? | ??
 /Quatuor/Nepgear-Uni-Rom-Ram/Nepgear-Uni-Rom-Ram-10.jpg | ?? | ??
+/Quatuor/Neptune-AdultNeptune-Nepgear-Histoire/Neptune-AdultNeptune-Nepgear-Histoire-1.jpg | ?? | ??
 /Quatuor/Neptune-Bouquet-IF-Compa/Neptune-Bouquet-IF-Compa-1.png | ?? | ??
 /Quatuor/Neptune-Compa-IF-Histoire/Neptune-Compa-IF-Histoire-1.jpg | ?? | ??
 /Quatuor/Neptune-Compa-IF-Histoire/Neptune-Compa-IF-Histoire-2.jpg | ?? | ??
@@ -1015,6 +1036,8 @@ Picture name/path | Artist Name | URL
 /Quatuor/Neptune-Noire-Blanc-Vert/Neptune-Noire-Blanc-Vert-26.jpg | ?? | ??
 /Quatuor/Neptune-Noire-Blanc-Vert/Neptune-Noire-Blanc-Vert-27.jpg | ?? | ??
 /Quatuor/Neptune-Noire-Blanc-Vert/Neptune-Noire-Blanc-Vert-28.jpg | ?? | ??
+/Quatuor/Neptune-Noire-Blanc-Vert/Neptune-Noire-Blanc-Vert-29.png | ?? | ??
+/Quatuor/Neptune-Noire-Blanc-Vert/Neptune-Noire-Blanc-Vert-30.png | ?? | ??
 /Quatuor/Noire-Bouquet-Plutia-Peashy/Noire-Bouquet-Plutia-Peashy-1.png | ?? | ??
 /Quatuor/Plutia-BabyIF-BabyCompa-BabyPeashy/Plutia-BabyIF-BabyCompa-BabyPeashy-1.jpg | ?? | ??
 /Quatuor/PurpleHeart-BlackHeart-WhiteHeart-GreenHeart/PurpleHeart-BlackHeart-WhiteHeart-GreenHeart-1.jpg | ?? | ??
