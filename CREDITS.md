@@ -795,6 +795,14 @@ Picture name/path | Artist Name | URL
 /Duo/Neptune-Noire/Neptune-Noire-17.png | ?? | ??
 /Duo/Neptune-Noire/Neptune-Noire-18.jpg | ?? | ??
 /Duo/Neptune-Noire/Neptune-Noire-19.jpg | ?? | https://redd.it/d5zqrs
+/Duo/Neptune-Noire/Neptune-Noire-20.png | ?? | ??
+/Duo/Neptune-Noire/Neptune-Noire-21.jpg | ?? | ??
+/Duo/Neptune-Noire/Neptune-Noire-22.jpg | ?? | ??
+/Duo/Neptune-Noire/Neptune-Noire-23.jpg | ?? | ??
+/Duo/Neptune-Noire/Neptune-Noire-24.jpg | ?? | ??
+/Duo/Neptune-Noire/Neptune-Noire-25.jpg | ?? | ??
+/Duo/Neptune-Noire/Neptune-Noire-26.jpg | ?? | ??
+/Duo/Neptune-Noire/Neptune-Noire-27.jpg | ?? | ??
 /Duo/Neptune-Plutia/Neptune-Plutia-1.png | ?? | ??
 /Duo/Neptune-Plutia/Neptune-Plutia-2.jpg | ?? | ??
 /Duo/Neptune-PurpleHeart/Neptune-PurpleHeart-1.jpg | ?? | ??
