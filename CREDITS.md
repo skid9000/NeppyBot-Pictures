@@ -47,12 +47,15 @@ Picture name/path | Artist Name | URL
 -- | -- | --
 /Solo/Blanc/4GO-Blanc-1.png | ?? | ??
 /Solo/Blanc/4GO-Blanc-2.jpg | ?? | ??
+/Solo/Blanc/4GO-Blanc-3.png | ?? | ??
 /Solo/Blanc/Blanc-1.jpg | ?? | ??
 /Solo/Blanc/Blanc-2.png | ?? | ??
 /Solo/Blanc/Blanc-Bikini-1.jpg | ?? | ??
 /Solo/Blanc/Blanc-Gym-1.png | ?? | ??
 /Solo/Blanc/Blanc-SchoolGirl-1.jpg | ?? | ??
 /Solo/Blanc/Blanc-SchoolGirl-2.jpg | ?? | ??
+/Solo/Blanc/Blanc-SchoolGirl-3.jpg | ?? | ??
+/Solo/Blanc/Blanc-SchoolGirl-4.png | ?? | ??
 /Solo/Blanc/BunnySuit-Blanc-1.jpg | ?? | ??
 /Solo/Blanc/Hyper-Blanc-1.jpg | ?? | ??
 /Solo/Blanc/Hyper-Blanc-2.png | ?? | ??
@@ -146,9 +149,13 @@ Picture name/path | Artist Name | URL
 /Solo/IF/IF-7.jpg | ?? | ??
 /Solo/IF/IF-8.jpg | ?? | ??
 /Solo/IF/IF-9.jpg | ?? | ??
+/Solo/IF/IF-10.jpg | ?? | ??
+/Solo/IF/IF-11.jpg | ?? | ??
+/Solo/IF/IF-12.jpg | ?? | ??
 /Solo/IF/IF-Maid-1.jpg | ?? | ??
-/Solo/IF/IF-Megumin-1.jpg | ?? | ??
-/Solo/IF/IF-Rin-1.png | ?? | ??
+/Solo/IF/IF-Cosplay-1.jpg | ?? | ??
+/Solo/IF/IF-Cosplay-2.png | ?? | ??
+/Solo/IF/IF-Cosplay-3.jpg | ?? | ??
 /Solo/IF/Santa-IF-1.jpg | ?? | ??
 
 ### Iris Heart
@@ -221,6 +228,16 @@ Picture name/path | Artist Name | URL
 /Solo/Nepgear/Nepgear-24.jpg | ?? | ??
 /Solo/Nepgear/Nepgear-25.png | ?? | ??
 /Solo/Nepgear/Nepgear-26.jpg | ?? | ??
+/Solo/Nepgear/Nepgear-27.jpg | ?? | ??
+/Solo/Nepgear/Nepgear-28.jpg | ?? | ??
+/Solo/Nepgear/Nepgear-29.png | ?? | ??
+/Solo/Nepgear/Nepgear-30.jpg | ?? | ??
+/Solo/Nepgear/Nepgear-31.jpg | ?? | ??
+/Solo/Nepgear/Nepgear-32.jpg | ?? | ??
+/Solo/Nepgear/Nepgear-33.jpg | ?? | ??
+/Solo/Nepgear/Nepgear-34.jpg | ?? | ??
+/Solo/Nepgear/Nepgear-35.jpg | ?? | ??
+/Solo/Nepgear/Nepgear-36.jpg | ?? | ??
 /Solo/Nepgear/Nepgear-Bikini-1.jpg | ?? | ??
 /Solo/Nepgear/Nepgear-Bikini-2.jpg | ?? | ??
 /Solo/Nepgear/Nepgear-CuteDress-1.jpg | ?? | ??
@@ -229,6 +246,7 @@ Picture name/path | Artist Name | URL
 /Solo/Nepgear/Nepgear-CuteDress-4.jpg | ?? | ??
 /Solo/Nepgear/Nepgear-CuteDress-5.jpg | ?? | ??
 /Solo/Nepgear/Nepgear-CuteDress-6.jpg | ?? | ??
+/Solo/Nepgear/Nepgear-CuteDress-7.jpg | ?? | ??
 /Solo/Nepgear/Nepgear-Gym-1.jpg | ?? | ??
 /Solo/Nepgear/Nepgear-Kancolle-1.jpg | ?? | ??
 /Solo/Nepgear/Nepgear-Santa-1.jpg | ?? | ??
@@ -261,6 +279,12 @@ Picture name/path | Artist Name | URL
 /Solo/Neptune/Adult-Neptune-13.jpg | ?? | ??
 /Solo/Neptune/Adult-Neptune-14.jpg | ?? | ??
 /Solo/Neptune/Adult-Neptune-15.jpg | ?? | ??
+/Solo/Neptune/Adult-Neptune-16.jpg | ?? | ??
+/Solo/Neptune/Adult-Neptune-17.jpg | ?? | ??
+/Solo/Neptune/Adult-Neptune-18.jpg | ?? | ??
+/Solo/Neptune/Adult-Neptune-19.jpg | ?? | ??
+/Solo/Neptune/Adult-Neptune-20.jpg | ?? | ??
+/Solo/Neptune/Adult-Neptune-21.jpg | ?? | ??
 /Solo/Neptune/Neptune-1.jpg | ?? | ??
 /Solo/Neptune/Neptune-2.jpg | ?? | ??
 /Solo/Neptune/Neptune-3.jpg | ?? | ??
@@ -284,10 +308,24 @@ Picture name/path | Artist Name | URL
 /Solo/Neptune/Neptune-21.jpg | ?? | ??
 /Solo/Neptune/Neptune-22.jpg | ?? | ??
 /Solo/Neptune/Neptune-23.png | ?? | ??
+/Solo/Neptune/Neptune-24.jpg | ?? | ??
+/Solo/Neptune/Neptune-25.jpg | ?? | ??
+/Solo/Neptune/Neptune-26.jpg | ?? | ??
+/Solo/Neptune/Neptune-27.jpg | ?? | ??
+/Solo/Neptune/Neptune-28.jpg | ?? | ??
+/Solo/Neptune/Neptune-29.png | ?? | ??
+/Solo/Neptune/Neptune-30.jpg | ?? | ??
+/Solo/Neptune/Neptune-31.jpg | ?? | ??
+/Solo/Neptune/Neptune-32.jpg | ?? | ??
+/Solo/Neptune/Neptune-33.jpg | ?? | ??
+/Solo/Neptune/Neptune-34.jpg | ?? | ??
+/Solo/Neptune/Neptune-35.jpg | ?? | ??
+/Solo/Neptune/Neptune-36.jpg | ?? | ??
+/Solo/Neptune/Neptune-37.jpg | ?? | ??
+/Solo/Neptune/Neptune-38.jpg | ?? | ??
+/Solo/Neptune/Neptune-39.jpg | ?? | ??
+/Solo/Neptune/Neptune-40.jpg | ?? | ??
 /Solo/Neptune/Neptune-Bikini-1.jpg | ?? | ??
-/Solo/Neptune/Neptune-Kancolle-1.jpg | ?? | ??
-/Solo/Neptune/Neptune-Napping-1.jpg | ?? | ??
-/Solo/Neptune/Neptune-NEPPU-1.jpg | ?? | ??
 /Solo/Neptune/Neptune-PP-1.jpg | ?? | ??
 /Solo/Neptune/Neptune-PP-2.png | ?? | ??
 /Solo/Neptune/Neptune-Santa-1.jpg | ?? | ??
@@ -371,6 +409,11 @@ Picture name/path | Artist Name | URL
 /Solo/Noire/Hyper-Noire-21.jpg | ?? | ??
 /Solo/Noire/Hyper-Noire-22.jpg | ?? | ??
 /Solo/Noire/Hyper-Noire-23.png | ?? | ??
+/Solo/Noire/Hyper-Noire-24.jpg | ?? | ??
+/Solo/Noire/Hyper-Noire-25.png | ?? | ??
+/Solo/Noire/Hyper-Noire-26.jpg | ?? | ??
+/Solo/Noire/Hyper-Noire-27.jpg | ?? | ??
+/Solo/Noire/Hyper-Noire-28.jpg | ?? | ??
 /Solo/Noire/Naked-Noire-1.png | ?? | ??
 /Solo/Noire/Noire-Bikini-1.jpg | ?? | ??
 /Solo/Noire/Noire-Bikini-2.png | ?? | ??
@@ -399,6 +442,8 @@ Picture name/path | Artist Name | URL
 /Solo/Noire/Ultra-Noire-10.jpg | ?? | ??
 /Solo/Noire/Ultra-Noire-11.jpg | ?? | ??
 /Solo/Noire/Ultra-Noire-12.png | ?? | ??
+/Solo/Noire/Ultra-Noire-13.jpg | ?? | ??
+/Solo/Noire/Ultra-Noire-14.jpg | ?? | ??
 
 ### Orange Heart
 
@@ -428,6 +473,11 @@ Picture name/path | Artist Name | URL
 /Solo/Plutia/Plutia-2.jpg | ?? | ??
 /Solo/Plutia/Plutia-3.jpg | ?? | ??
 /Solo/Plutia/Plutia-4.jpg | ?? | ??
+/Solo/Plutia/Plutia-5.jpg | ?? | ??
+/Solo/Plutia/Plutia-6.jpg | ?? | ??
+/Solo/Plutia/Plutia-7.jpg | ?? | ??
+/Solo/Plutia/Plutia-8.jpg | ?? | ??
+/Solo/Plutia/Plutia-9.jpg | ?? | ??
 /Solo/Plutia/Plutia-Bunnysuit-1.jpg | ?? | ??
 /Solo/Plutia/Plutia-SchoolGirl-1.jpg | ?? | ??
 
